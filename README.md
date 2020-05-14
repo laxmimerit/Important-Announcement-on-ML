@@ -1,16 +1,26 @@
 # Important-Announcement-on-ML
-Hi, This is in regard to the code files of all videos at KGP Talkie YouTube Channel. 
 
-I request you to please get enrolled yourself in my Udemy course and show your support and love to KGP Talkie. All the code files and video lectures have lifetime access with 30 Days money back Guarantee. 
+Learn NumPy, Pandas, matplotlib, Seaborn, Plotly & Cufflinks, EDA on Boston Housing, Titanic, and Covid-19 Dataset.
+This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations!
 
-Code and question-answer support are also available at Udemy.  I promise you to give FREE COUPONS for the next course on Deep Learning and ML. You can click on the link mentioned below and can get yourself enrolled!! 
+✔ Learn complete Exploratory Data Analysis on latest Covid-19 Dataset
+✔ Learn EDA on Kaggle's Boston Housing and Titanic Datasets
+✔ Learn Data Visualization by Plotly and Cufflinks, Seaborn, matplotlib, Pandas
+✔ Learn Interactive plots and visualization
+✔ Installation of python and related libraries.
+✔ Covid-19 Data Visualization
+✔ Covid-19 Dataset Analysis and Visualization in Python
+✔ Data Science Visualization with Covid-19
+✔ Use the Numpy and Pandas in data manipulation
+✔ Create a variety of charts, Bar Charts, Line Charts, Stacked Charts, Pie Charts, Histograms, KDE plots, Violinplots, Boxplots, Auto Correlation plots, Scatter Plots, Heatmaps
+✔ Learn Data Analysis by Pandas.
+✔ Use the Pandas module with Python to create and structure data.
+✔ Customize graphs, modifying colors, lines, fonts, and more
 
-https://bit.ly/udemy95off_kgptalkie  
+Enroll Yourself in the full course here: https://bit.ly/udemy95off_kgptalkie
+This is a very unique course where you will learn EDA on Kaggle's Boston Housing, Titanic, and Latest Covid-19 Datasets with real and practical examples.
 
-## New content is added at Udemy:  
-- 1. Animation Plot [2 lectures] 
-- 2. Python Coding in Mobile [5 lectures] 
-- 3. Complete EDA of Boston Dataset [20 lectures]  
+Enroll in this course with 30-Days Money Back Guarantee!!!
 
 ## What else we promise in this course  
 - 1. Kaggle data EDA 
@@ -20,6 +30,3 @@ https://bit.ly/udemy95off_kgptalkie
 - 5. Figure Aesthetics and Decoration 
 - 6. Free coupons for next course 
 - 7. And so much more.  
-
-
-Hurry up!!! Only for a limited time.  Please email your details at udemy@kgptalkie.com for the FREE COUPONS of the next course.  Note: Code files of YouTube lectures will be also available once you register in this course. Please send an email to udemy@kgptalkie.com after enrolling in this course.
