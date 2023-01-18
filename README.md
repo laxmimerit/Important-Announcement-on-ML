@@ -1,5 +1,5 @@
 # Important-Announcement-on-ML
-<a href='http://www.kgptalkie.com'><img src='https://github.com/laxmimerit/Important-Announcement-on-ML/blob/master/kgptalkie_strips.png'/></a>
+<a href='http://www.kgptalkie.com' target="_blank"> <img src='https://github.com/laxmimerit/Important-Announcement-on-ML/blob/master/kgptalkie_strips.png'/></a>
 
 
 Learn NumPy, Pandas, matplotlib, Seaborn, Plotly & Cufflinks, EDA on Boston Housing, Titanic, and Covid-19 Dataset.
