@@ -1,5 +1,7 @@
 # Important-Announcement-on-ML
-<img src='https://github.com/laxmimerit/Important-Announcement-on-ML/blob/master/kgptalkie_strips.png'>
+<a href='http://www.kgptalkie.com'><img src='https://github.com/laxmimerit/Important-Announcement-on-ML/blob/master/kgptalkie_strips.png'/></a>
+
+
 Learn NumPy, Pandas, matplotlib, Seaborn, Plotly & Cufflinks, EDA on Boston Housing, Titanic, and Covid-19 Dataset.
 This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations!
 
