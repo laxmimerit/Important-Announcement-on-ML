@@ -1,5 +1,5 @@
 # Announcement-on-ML
-<a href='http://www.kgptalkie.com' target="_blank"> <img src='https://github.com/laxmimerit/Important-Announcement-on-ML/blob/master/kgptalkie_strips.png'/></a>
+<a href='http://www.kgptalkie.com' target="_blank"> <img src='https://github.com/laxmimerit/Important-Announcement-on-ML/raw/master/kgptalkie_strips.png'/></a>
 
 # ML Resources
 |  ML Course | Description |
